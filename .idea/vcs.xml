@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bookapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GuessTheNumber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InstagramKlon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PomodoroTimer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecycleView" vcs="Git" />
+  </component>
+</project>
